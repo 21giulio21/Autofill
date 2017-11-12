@@ -1,1 +1,1 @@
-# Autofill
+Per utilizzare l'Autofill Framework di Android bisogna aver installato un'app di autofill come android-AutofillFramework-master che permette di analizzare i campi di un form e vedere se è settato il tag: android:autofillHints="...", se è settato questo tag allora il servizio di autofill controlla la firma e suggerisce le credenziali precedentemente inserite
