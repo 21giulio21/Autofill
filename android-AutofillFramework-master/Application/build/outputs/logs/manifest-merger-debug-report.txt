@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
 MERGED from [com.android.support:support-v13:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.1.aar/d0c244402aa32a40501147d3da5e97b7/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:design:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/fd75a671ec46d9ef5bb9486b88c636ff/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3a363763ac2ac9a1f16604819c2acce0/AndroidManifest.xml:17:1-31:12
@@ -18,26 +18,26 @@ MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/giulio/.gradle/ca
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/02f2e14a3cfb2820ce06fcbb32dfac14/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/e81d31bc7fd0f55788a16ffc7d86a20b/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/ece741bb76c37892a5d8c10a0b302320/AndroidManifest.xml:17:1-31:12
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:1-110:12
 	package
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:17:5-52
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:17:5-52
 	android:versionName
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:19:5-30
-		INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:11-69
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:16:11-69
 	android:versionCode
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:18:5-28
-		INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:21:5-66
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:21:22-64
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:21:22-64
 application
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:23:5-108:19
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:23:5-108:19
 MERGED from [com.android.support:support-v13:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.1.aar/d0c244402aa32a40501147d3da5e97b7/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v13:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.1.aar/d0c244402aa32a40501147d3da5e97b7/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/fd75a671ec46d9ef5bb9486b88c636ff/AndroidManifest.xml:25:5-29:19
@@ -69,141 +69,141 @@ MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/giulio/.g
 MERGED from [com.android.support:support-compat:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/ece741bb76c37892a5d8c10a0b302320/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/ece741bb76c37892a5d8c10a0b302320/AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:27:9-35
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:27:9-35
 	android:label
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:26:9-41
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:26:9-41
 	android:icon
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:25:9-43
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:25:9-43
 	android:allowBackup
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:24:9-35
 	android:theme
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:28:9-53
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:28:9-53
 activity#com.example.android.autofillframework.app.MainActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:29:9-37:20
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:29:9-37:20
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:31:13-49
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:31:13-49
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:30:13-45
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:30:13-45
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:32:13-36:29
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:33:17-69
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:33:25-66
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:35:17-77
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:35:27-74
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:35:27-74
 activity#com.example.android.autofillframework.app.StandardSignInActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:38:9-40:62
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:38:9-40:62
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:40:13-59
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:40:13-59
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:39:13-55
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:39:13-55
 activity#com.example.android.autofillframework.app.StandardAutoCompleteSignInActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:41:9-43:74
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:41:9-43:74
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:43:13-71
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:43:13-71
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:42:13-67
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:42:13-67
 activity#com.example.android.autofillframework.app.VirtualSignInActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:44:9-46:61
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:44:9-46:61
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:46:13-58
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:46:13-58
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:45:13-54
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:45:13-54
 activity#com.example.android.autofillframework.app.WelcomeActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:47:9-57
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:47:9-57
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:47:19-54
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:47:19-54
 activity#com.example.android.autofillframework.app.CreditCardActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:48:9-50:58
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:48:9-50:58
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:50:13-55
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:50:13-55
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:49:13-51
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:49:13-51
 activity#com.example.android.autofillframework.app.CreditCardSpinnersActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:51:9-53:66
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:51:9-53:66
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:53:13-63
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:53:13-63
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:52:13-59
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:52:13-59
 activity#com.example.android.autofillframework.app.EmailComposeActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:54:9-56:60
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:54:9-56:60
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:56:13-57
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:56:13-57
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:55:13-53
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:55:13-53
 activity#com.example.android.autofillframework.app.CreditCardCompoundViewActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:57:9-59:70
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:57:9-59:70
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:59:13-67
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:59:13-67
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:58:13-63
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:58:13-63
 activity#com.example.android.autofillframework.app.CreditCardDatePickerActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:60:9-62:68
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:60:9-62:68
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:62:13-65
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:62:13-65
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:61:13-61
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:61:13-61
 activity#com.example.android.autofillframework.app.CreditCardAntiPatternActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:63:9-65:69
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:63:9-65:69
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:65:13-66
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:65:13-66
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:64:13-62
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:64:13-62
 activity#com.example.android.autofillframework.app.MultiplePartitionsActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:66:9-69:72
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:66:9-69:72
 	android:theme
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:69:13-69
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:69:13-69
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:68:13-63
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:68:13-63
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:67:13-59
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:67:13-59
 activity#com.example.android.autofillframework.app.WebViewSignInActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:70:9-72:61
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:70:9-72:61
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:72:13-58
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:72:13-58
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:71:13-54
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:71:13-54
 activity#com.example.android.autofillframework.multidatasetservice.settings.SettingsActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:77:9-87:20
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:77:9-87:20
 	android:label
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:80:13-50
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:80:13-50
 	android:exported
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:79:13-36
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:79:13-36
 	android:taskAffinity
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:81:13-53
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:81:13-53
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:78:13-74
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:78:13-74
 service#com.example.android.autofillframework.multidatasetservice.MyAutofillService
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:94:9-105:19
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:94:9-105:19
 	android:label
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:96:13-59
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:96:13-59
 	android:permission
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:97:13-74
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:97:13-74
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:95:13-66
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:95:13-66
 meta-data#android.autofill
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:98:13-100:64
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:98:13-100:64
 	android:resource
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:100:17-61
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:100:17-61
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:99:17-48
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:99:17-48
 intent-filter#android.service.autofill.AutofillService
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:102:13-104:29
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:102:13-104:29
 action#android.service.autofill.AutofillService
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:103:17-83
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:103:17-83
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:103:25-80
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:103:25-80
 activity#com.example.android.autofillframework.multidatasetservice.AuthActivity
-ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:107:9-70
+ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:107:9-70
 	android:name
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:107:19-67
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:107:19-67
 uses-sdk
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
 MERGED from [com.android.support:support-v13:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.1.aar/d0c244402aa32a40501147d3da5e97b7/AndroidManifest.xml:21:5-23:55
 MERGED from [com.android.support:support-v13:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.1.aar/d0c244402aa32a40501147d3da5e97b7/AndroidManifest.xml:21:5-23:55
 MERGED from [com.android.support:design:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/fd75a671ec46d9ef5bb9486b88c636ff/AndroidManifest.xml:21:5-23:62
@@ -234,18 +234,18 @@ MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/giulio/.g
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/e81d31bc7fd0f55788a16ffc7d86a20b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/ece741bb76c37892a5d8c10a0b302320/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/ece741bb76c37892a5d8c10a0b302320/AndroidManifest.xml:21:5-23:58
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
-INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.1.aar/d0c244402aa32a40501147d3da5e97b7/AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
-		INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
-		ADDED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/giulio/Scaricati/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:support-v13:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.1.aar/d0c244402aa32a40501147d3da5e97b7/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:design:26.0.1] /home/giulio/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/fd75a671ec46d9ef5bb9486b88c636ff/AndroidManifest.xml:26:9-28:38
