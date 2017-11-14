@@ -1,4 +1,0 @@
-#Mon Nov 13 09:35:35 CET 2017
-base.0=/home/giulio/AndroidStudioProjects/Autofill/AutofillLogin_2(FAKE)/app/build/intermediates/transforms/dexMerger/debug/30
-path.0=classes.dex
-renamed.0=classes.dex
