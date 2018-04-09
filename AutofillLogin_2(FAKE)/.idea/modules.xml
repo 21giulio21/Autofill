@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Open Activity Form Autofill.iml" filepath="$PROJECT_DIR$/Open Activity Form Autofill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutofillLogin_2(FAKE).iml" filepath="$PROJECT_DIR$/AutofillLogin_2(FAKE).iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

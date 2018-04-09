@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/giulio/AndroidStudioProjects/Autofill/AndroidAutofillMaster (FAKE)/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/giulio/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/fd75a671ec46d9ef5bb9486b88c636ff/res/values-v21/values-v21.xml",

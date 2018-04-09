@@ -1,4 +1,4 @@
-package com.example.newactivityonbuttonclick;
+package com.example.instagram;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -39,6 +39,9 @@ public class WebViewSignInActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Log.e("WebViewSignInActivity","onCreate");
+
+        //Carico la Web View dall'xml login_webview_activity
 
         setContentView(R.layout.login_webview_activity);
 
@@ -47,9 +50,14 @@ public class WebViewSignInActivity extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
         webSettings.setJavaScriptEnabled(true);
 
+
+        // url è sempre nullo non so perche
         String url = getIntent().getStringExtra("url");
         if (url == null) {
-            url = "file:///android_res/raw/sample_form.html";
+
+            Log.e("WebViewSingInActivity", " url = null in onCreate");
+            //url = "file:///android_res/raw/sample_form.html"; originariamente era cosi, quindi per rimetterlo originale tolgo quello sotto che ho messo io
+            url = "https://www.linkedin.com/uas/login";
         }
         if (DEBUG) Log.d(TAG, "Clearing WebView data");
         webView.clearHistory();

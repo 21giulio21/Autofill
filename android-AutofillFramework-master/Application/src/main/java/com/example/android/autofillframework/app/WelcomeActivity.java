@@ -20,6 +20,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.widget.TextView;
 
 import com.example.android.autofillframework.R;
@@ -47,7 +48,9 @@ public class WelcomeActivity extends AppCompatActivity {
 
             @Override
             public void onFinish() {
+
                 if (!WelcomeActivity.this.isFinishing()) {
+
                     finish();
                 }
             }

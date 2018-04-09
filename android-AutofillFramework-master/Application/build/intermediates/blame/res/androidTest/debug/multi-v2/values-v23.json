@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/giulio/Scaricati/android-AutofillFramework-master/Application/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/giulio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3a363763ac2ac9a1f16604819c2acce0/res/values-v23/values-v23.xml",
+                    "source": "/home/giulio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b6be974d5c47f5de36d8b4599478ea5f/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/home/giulio/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.1.aar/6e9fa0d03990d9acc21e2c5830d99893/res/values-v23/values-v23.xml",
+                    "source": "/home/giulio/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.1.aar/27fb8bbc5d47692f7c424aa224d8307d/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

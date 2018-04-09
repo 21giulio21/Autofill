@@ -114,6 +114,7 @@ public class MainActivity extends AppCompatActivity {
         loginWebView.setNavigationButtonClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Log.e("MainActivity.java","Press loginWebView");
                 startActivity(WebViewSignInActivity.getStartActivityIntent(MainActivity.this));
             }
         });

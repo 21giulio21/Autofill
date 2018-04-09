@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/giulio/Scaricati/android-AutofillFramework-master/Application/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "outputFile": "/home/giulio/AndroidStudioProjects/Autofill/AndroidAutofillMaster (FAKE)/Application/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/giulio/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.1.aar/6e9fa0d03990d9acc21e2c5830d99893/res/values/values.xml",

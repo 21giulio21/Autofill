@@ -19,7 +19,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
+import android.view.autofill.AutofillManager;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -38,6 +40,8 @@ public class StandardSignInActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        AutofillManager a = getApplicationContext().getSystemService(AutofillManager.class);
+        Log.e("enable",String.valueOf(a.isEnabled()));
 
         setContentView(R.layout.login_activity);
         mUsernameEditText = findViewById(R.id.usernameField);

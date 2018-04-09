@@ -1,4 +1,4 @@
-#Tue Nov 14 10:05:00 CET 2017
-base.0=/home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/build/intermediates/transforms/dexMerger/debug/18
+#Wed Nov 15 14:16:30 CET 2017
+base.0=/home/giulio/AndroidStudioProjects/Autofill/AndroidAutofillMaster (FAKE)/Application/build/intermediates/transforms/dexMerger/debug/18
 path.0=classes.dex
 renamed.0=classes.dex

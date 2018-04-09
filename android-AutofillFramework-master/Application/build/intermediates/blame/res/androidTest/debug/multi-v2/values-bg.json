@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/giulio/Scaricati/android-AutofillFramework-master/Application/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bg/values-bg.xml",
+            "outputFile": "/home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bg/values-bg.xml",
             "map": [
                 {
-                    "source": "/home/giulio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/3a363763ac2ac9a1f16604819c2acce0/res/values-bg/values-bg.xml",
+                    "source": "/home/giulio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/b6be974d5c47f5de36d8b4599478ea5f/res/values-bg/values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

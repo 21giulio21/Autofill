@@ -1,4 +1,4 @@
-package com.example.newactivityonbuttonclick;
+package com.linkedin.android;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

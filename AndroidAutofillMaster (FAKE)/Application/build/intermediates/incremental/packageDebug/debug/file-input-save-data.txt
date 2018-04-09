@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Tue Nov 14 10:05:03 CET 2017
+#Tue Nov 14 15:13:17 CET 2017
 0.baseType=DIRECTORY
-0.base=/home/giulio/AndroidStudioProjects/Autofill/android-AutofillFramework-master/Application/build/intermediates/transforms/dexMerger/debug/18
+0.base=/home/giulio/AndroidStudioProjects/Autofill/AndroidAutofillMaster (FAKE)/Application/build/intermediates/transforms/dexMerger/debug/18
 0.path=classes.dex
 0.set=DEX
 count=1

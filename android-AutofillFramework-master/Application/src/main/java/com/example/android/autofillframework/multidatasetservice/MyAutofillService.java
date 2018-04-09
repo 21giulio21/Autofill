@@ -47,15 +47,16 @@ import static com.example.android.autofillframework.CommonUtil.dumpStructure;
 
 public class MyAutofillService extends AutofillService {
 
+    //The service receives the view structure through the
     @Override
-    public void onFillRequest(FillRequest request, CancellationSignal cancellationSignal,
+    publivoid onFillRequest(FillRequest request, CancellationSignal cancellationSignal,
             FillCallback callback) {
 
-        Log.e("GIULIO - MyAutofillService", "onFillRequest");
+        Log.e("GIULIO - onFillRequest MyAutofillService", "onFillRequest");
         AssistStructure structure = request.getFillContexts()
                 .get(request.getFillContexts().size() - 1).getStructure();
         String packageName = structure.getActivityComponent().getPackageName();
-        Log.e("GIULIO - MyAutofillService", packageName);
+        Log.e("GIULIO - onFillRequest MyAutofillService", packageName);
 
 
         if (!SharedPrefsPackageVerificationRepository.getInstance()
@@ -66,7 +67,7 @@ public class MyAutofillService extends AutofillService {
         }
         final Bundle data = request.getClientState();
         if (VERBOSE) {
-            Log.v(TAG, "onFillRequest(): data=" + bundleToString(data));
+            Log.v(TAG, " onFillRequest onFillRequest(): data=" + bundleToString(data));
             Log.e("GIULIO - onFillRequest(): data=", bundleToString(data));
 
             dumpStructure(structure);
