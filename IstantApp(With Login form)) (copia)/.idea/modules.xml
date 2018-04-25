@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IstantApp.iml" filepath="$PROJECT_DIR$/IstantApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IstantApp(With Login form)) (copia).iml" filepath="$PROJECT_DIR$/IstantApp(With Login form)) (copia).iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/base-feature/app.iml" filepath="$PROJECT_DIR$/base-feature/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-feature/base-feature.iml" filepath="$PROJECT_DIR$/base-feature/base-feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/instantapp/instantapp.iml" filepath="$PROJECT_DIR$/instantapp/instantapp.iml" />
     </modules>

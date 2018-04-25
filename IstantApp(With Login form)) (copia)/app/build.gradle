@@ -6,11 +6,11 @@ android {
 
 
     defaultConfig {
-        applicationId "com.example.mynewapp"
+        applicationId "com.facebook.testapp"
         minSdkVersion 23
         targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
+        versionCode 300
+        versionName "300.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
